@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatsuya2145&show_icons=true&theme=radical)
+[![My Skills](https://skillicons.dev/icons?i=php,py,go,js,html,css)](https://skillicons.dev)
 <!--
 **tatsuya2145/tatsuya2145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
