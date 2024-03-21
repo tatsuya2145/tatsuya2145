@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=php,py,cs,go,js,html,css,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,py,cs,go,js,ts,react,html,css,mysql)](https://skillicons.dev)
 <!--
 **tatsuya2145/tatsuya2145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
